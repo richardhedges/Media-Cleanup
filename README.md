@@ -10,4 +10,4 @@ This plugin permanently deletes attachments from your website/server. Ensure you
 
 Copyright 2019 Richard Hedges
 
-Licensed under the [MIT License](https://github.com/richardhedges/Media-Cleanup/blob/master/LICENSE)
+Licensed under [GNU General Public License v3.0](https://github.com/richardhedges/Media-Cleanup/blob/master/LICENSE)
