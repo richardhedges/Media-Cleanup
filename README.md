@@ -4,7 +4,9 @@ A WordPress plugin intended to help clean up your website by removing unused att
 
 ##### Future Releases
 
-I intend to further develop this plugin to include additional features to better manage your attachments and unused media. This will include additional image sizes that aren't used, duplicate files and more.
+~~I intend to further develop this plugin to include additional features to better manage your attachments and unused media. This will include additional image sizes that aren't used, duplicate files and more.~~
+
+I haven't been working with WordPress for a while and will only pick this up again in the future if that changes.
 
 ##### Notice
 
